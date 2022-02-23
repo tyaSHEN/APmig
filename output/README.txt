@@ -1,6 +1,6 @@
 This is the final result from the model.
 
-Colnames
+Column names
 o_name: ISO 3166-1 alpha-3 of Origin
 d_name: ISO 3166-1 alpha-3 of Destination
 q50: median of migrant flows

@@ -1,6 +1,8 @@
-The input data in the folder are mock data instead of the real data used in our paper, so the results is different. The stucture of the data should be kept to ensure the program runs correctly.
+The input data in the folder are mock data instead of the real data used in our paper, so the results is different. 
 
-To get the actual results, please refer to the paper to retrieve the real data.
+To get the actual results, please refer to the paper to retrieve the real data. However, the stucture of the inputs should be kept to ensure the program runs correctly.
+
+Here is the description of each dataset in this folder
 
 ###
 Column names in "generation inputs (mock).csv"

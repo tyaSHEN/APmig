@@ -1,4 +1,4 @@
-This is the final result from the model.
+This is the final result from the model used in our paper.
 
 Column names
 year: year

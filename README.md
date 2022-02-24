@@ -1,5 +1,5 @@
 # Estimating International Migration Flows for the Asia-Pacific Region: Application of a Generation-Distribution Model
-## James Raymer,  Qing Guan,  Tianyu Shen,  Arkadiusz Wiśniowski  and Juliet Pietsch 
+*James Raymer,  Qing Guan,  Tianyu Shen,  Arkadiusz Wiśniowski, Juliet Pietsch* 
 
 This is a repository for our paper in Migration Studies. Our paper estimates annual flows of international migration amongst 53 populations in the Asia-Pacific region and four macro world regions from 2000 to 2019 using a generation-distribution framework. 
 

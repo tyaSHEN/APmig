@@ -22,4 +22,4 @@ Input data are in "inputs" folder.
 
 
 
-If you run into problems with the code, please contact me at tianyu.shen@anu.edu.au
+For problems with the code, please email tianyu.shen@anu.edu.au

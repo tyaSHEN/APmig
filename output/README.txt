@@ -1,9 +1,8 @@
-This is the final result from the model used in our paper.
+This is the final result from the model used in our paper. Column names are as follows:
 
-Column names
-year: year
-o_name: ISO 3166-1 alpha-3 of Origin
-d_name: ISO 3166-1 alpha-3 of Destination
-q50: median of migrant flows
-q10: 10th percentile of flows
-q90: 90th percentile of flows
+- year: year of flow
+- o_name: country or region of origin
+- d_name: country or region of destination
+- q50: the point estimates of origin-destination-specific flows
+- q10: lower bound of 80% prediction interval for the point estimates
+- q90: upper bound of 80% prediction interval for the point estimates

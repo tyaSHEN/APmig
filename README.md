@@ -1,10 +1,22 @@
 ## Estimating International Migration Flows for the Asia-Pacific Region: Application of a Generation-Distribution Model
 ***James Raymer,  Qing Guan,  Tianyu Shen,  Arkadiusz Wiśniowski, Juliet Pietsch***
 
-This is a repository for our paper in [*Migration Studies*](https://academic.oup.com/migration). Our paper estimates annual flows of international migration amongst 53 populations in the Asia-Pacific region and four macro world regions from 2000 to 2019 using a generation-distribution framework. 
+This is a repository for our paper in [*Migration Studies*](https://academic.oup.com/migration). The paper estimates annual flows of international migration amongst 53 populations in the Asia-Pacific region and four macro world regions from 2000 to 2019 using a generation-distribution framework. 
 
-The code to produce this estimate can be found in "Code.r", and input data in "inputs" folder. However, the input data are not actual data used in the paper, so the code is a mere demonstration. To get the result of the paper, you need to refer to the original sources of the data, which are mentioned in the paper and are publicly available.
+The code to produce the estimates are in "Code.r". 
 
-Our estimated results can be found in the "output" folder with 80% prediction interval. 
+The estimated flows are in the "output" folder. 
+  year: year of flow
+  o_name: country or region of origin
+  d_name: country or region of destination
+  q50: the point estimates of origin-destination-specific flows
+  q10: lower bound of 80% prediction interval for the point estimates
+  q90: upper bound of 80% prediction interval for the point estimates
+
+Input data are in "inputs" folder. 
+  Note that the input data are not actual data used in the paper. We provided a set of test data files to run the code. 
+  To replicate the outputs used in the paper, you need to download the publicly available data from sources we specified in Appendix Table 1 of the paper.
+
+
 
 If you run into problems running the code, please contact me at tianyu.shen@anu.edu.au

@@ -3,7 +3,7 @@
 
 This is a repository for our paper in [*Migration Studies*](https://academic.oup.com/migration). The paper estimates annual flows of international migration amongst 53 populations in the Asia-Pacific region and four macro world regions from 2000 to 2019 using a generation-distribution framework. 
 
-The estimated flows are in "res_od.csv". Column names are as follows:
+The final estimated flows in the paper are in "res_od.csv". Column names are as follows:
 - year: year of flow
 - o_name: country or region of origin
 - d_name: country or region of destination

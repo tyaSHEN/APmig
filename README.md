@@ -4,14 +4,13 @@
 This is a repository for our paper in [*Migration Studies*](https://academic.oup.com/migration). The paper estimates annual flows of international migration amongst 53 populations in the Asia-Pacific region and four macro world regions from 2000 to 2019 using a generation-distribution framework. 
 
 The estimated flows are in the "output" folder. Column names are as follows:
-```
- year: year of flow
- o_name: country or region of origin
- d_name: country or region of destination
- q50: the point estimates of origin-destination-specific flows
- q10: lower bound of 80% prediction interval for the point estimates
- q90: upper bound of 80% prediction interval for the point estimates
-```
+- year: year of flow
+- o_name: country or region of origin
+- d_name: country or region of destination
+- q50: the point estimates of origin-destination-specific flows
+- q10: lower bound of 80% prediction interval for the point estimates
+- q90: upper bound of 80% prediction interval for the point estimates
+
 
 The code to produce the estimates are in "Code.r". 
 

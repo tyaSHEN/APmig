@@ -1,0 +1,58 @@
+region,country/area name,code
+Eastern Asia,China,CHN
+Eastern Asia,"China, Hong Kong Special Administrative Region",HKG
+Eastern Asia,"China, Macao Special Administrative Region",MAC
+Eastern Asia,Democratic People's Republic of Korea,PRK
+Eastern Asia,Japan,JPN
+Eastern Asia,Mongolia,MNG
+Eastern Asia,Republic of Korea,KOR
+Eastern Asia,Taiwan,TWN
+South-Eastern Asia,Brunei Darussalam,BRN
+South-Eastern Asia,Cambodia,KHM
+South-Eastern Asia,Indonesia,IDN
+South-Eastern Asia,Lao People's Democratic Republic,LAO
+South-Eastern Asia,Malaysia,MYS
+South-Eastern Asia,Myanmar,MMR
+South-Eastern Asia,Philippines,PHL
+South-Eastern Asia,Singapore,SGP
+South-Eastern Asia,Thailand,THA
+South-Eastern Asia,Timor-Leste,TLS
+South-Eastern Asia,Viet Nam,VNM
+Southern Asia,Afghanistan,AFG
+Southern Asia,Bangladesh,BGD
+Southern Asia,Bhutan,BTN
+Southern Asia,India,IND
+Southern Asia,Iran (Islamic Republic of),IRN
+Southern Asia,Maldives,MDV
+Southern Asia,Nepal,NPL
+Southern Asia,Pakistan,PAK
+Southern Asia,Sri Lanka,LKA
+Australia and New Zealand,Australia,AUS
+Australia and New Zealand,New Zealand,NZL
+Other Oceania,Fiji,FJI
+Other Oceania,New Caledonia,NCL
+Other Oceania,Papua New Guinea,PNG
+Other Oceania,Solomon Islands,SLB
+Other Oceania,Vanuatu,VUT
+Other Oceania,Guam,GUM
+Other Oceania,Kiribati,KIR
+Other Oceania,Marshall Islands,MHL
+Other Oceania,Micronesia (Federated States of),FSM
+Other Oceania,Nauru,NRU
+Other Oceania,Northern Mariana Islands,MNP
+Other Oceania,Palau,PLW
+Other Oceania,American Samoa,ASM
+Other Oceania,Cook Islands,COK
+Other Oceania,French Polynesia,PYF
+Other Oceania,Niue,NIU
+Other Oceania,Samoa,WSM
+Other Oceania,Tokelau,TKL
+Other Oceania,Tonga,TON
+Other Oceania,Tuvalu,TUV
+Other Oceania,Wallis and Futuna Islands,WLF
+United States and Canada,Canada,CAN
+United States and Canada,United States of America,USA
+Rest of Asia,Rest of Asia,ROA
+South and Central America,South and Central America,SCA
+Europe,Europe,EUR
+Africa,Africa,AFR

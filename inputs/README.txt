@@ -1,6 +1,6 @@
-The input data in the folder are mock data instead of the real data used in our paper, so the results is different. 
+The input data in the folder are mock data instead of the real data used in our paper, so the results are an example and are different. 
 
-To get the actual results, please refer to the paper to retrieve the real data. However, the stucture of the inputs should be kept to ensure the program runs correctly.
+To get the results in the paper, please refer to the paper to retrieve the actual data. However, the stucture of the inputs should be kept to ensure the program runs correctly.
 
 Here is the description of each dataset in this folder
 

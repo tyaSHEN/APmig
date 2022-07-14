@@ -22,4 +22,4 @@ Input data are in "inputs" folder.
 
 
 
-For questions with the code or requests for the full results (with 1,000 iterations), please email Qing.Guan@anu.edu.au or Tianyu.Shen@anu.edu.au
+For questions with the code or requests for all estimated flows with 1000 iterations, please email Qing.Guan@anu.edu.au or Tianyu.Shen@anu.edu.au
